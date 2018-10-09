@@ -1,0 +1,31 @@
+{
+  "name": "jsgex",
+  "version": "1.0.0",
+  "description": "Not a replacement for REGEX, but an alternative that is far more readable and a bit more flexible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMazurkiewicz/jsgex.git"
+  },
+  "keywords": [
+    "tokenizer",
+    "regex",
+    "token",
+    "string",
+    "match",
+    "find",
+    "parse",
+    "text",
+    "search",
+    "tokenize"
+  ],
+  "author": "Daniel Mazurkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMazurkiewicz/jsgex/issues"
+  },
+  "homepage": "https://github.com/DanielMazurkiewicz/jsgex#readme"
+}
